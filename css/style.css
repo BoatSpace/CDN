@@ -10,9 +10,9 @@
 }
 
 .hero {
-  background-color: var(--notquiteblack, rgb(35, 39, 42));
+  background-color: var(--notquiteblack, rgb(35, 39, 42)) !important;
 }
 
 .footer {
-  background-color: var(--blurple, rgb(114, 137, 218)); 
+  background-color: var(--blurple, rgb(114, 137, 218)) !important; 
 }
