@@ -5557,7 +5557,7 @@ body.has-navbar-fixed-bottom, html.has-navbar-fixed-bottom {
     cursor: pointer
 }
 
-.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within,     {
+.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within {
     background-color: #fafafa;
     color: #3273dc
 }
@@ -5567,9 +5567,9 @@ body.has-navbar-fixed-bottom, html.has-navbar-fixed-bottom {
     flex-shrink: 0
 }
 
-.navbar-item img {
+/* .navbar-item img {
     max-height: 1.75rem
-}
+} */
 
 .navbar-item.has-dropdown {
     padding: 0
