@@ -1,18 +1,1 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-:root {
-  --blurple: rgb(114, 137, 218);
-  --notquiteblack: rgb(35, 39, 42);
-}
-
-* {
-  font-family: Roboto, sans-serif !important;
-}
-
-.hero {
-  background-color: var(--notquiteblack, rgb(35, 39, 42)) !important;
-}
-
-.footer {
-  background-color: var(--blurple, rgb(114, 137, 218)) !important; 
-}
