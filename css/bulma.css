@@ -183,11 +183,6 @@ blockquote, body, dd, dl, dt, fieldset, figure, h1, h2, h3, h4, h5, h6, hr, html
     padding: 0
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-size: 100%;
-    font-weight: 400
-}
-
 ul {
     list-style: none
 }
