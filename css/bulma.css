@@ -1,6 +1,4 @@
-/*! bulma.io v0.9.1 | MIT License | github.com/jgthms/bulma 
-    Modified by Gideon Lingle
-*/
+/*! bulma.io v0.9.1 | MIT License | github.com/jgthms/bulma */
 
 @-webkit-keyframes spinAround {
     from {
@@ -290,10 +288,10 @@ hr {
     margin: 1.5rem 0
 }
 
-img {
+/* img {
     height: auto;
     max-width: 100%
-}
+} */
 
 input[type=checkbox], input[type=radio] {
     vertical-align: baseline
